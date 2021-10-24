@@ -1,0 +1,1 @@
+alter table todolist.task drop column is_done;

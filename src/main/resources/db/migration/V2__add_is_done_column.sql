@@ -1,0 +1,1 @@
+alter table task add column is_done boolean not null default false;
